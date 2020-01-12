@@ -1,6 +1,6 @@
 ## Thank You!!!
 
-This page contains mode donation for John Paul Briones Kidney Transplant, any amount is much appreciated :).
+This page contains mode of donation for John Paul Briones Kidney Transplant, any amount is much appreciated :).
 
 ### Banco de Oro
 
