@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Thank You!!!
 
-You can use the [editor on GitHub](https://github.com/Jeypzzz/transplant-funds/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page contains mode donation for John Paul Briones Kidney Transplant, any amount is much appreciated :kissing_heart:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Banco de Oro
 
-### Markdown
+**Account Details**
+Account Number: 002210385713
+Account Name: John Paul J. Briones
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Paypal
 
-# Header 1
-## Header 2
-### Header 3
+** [Paypal URL](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ADX6YK8L4FPPU&source=url) **
 
-- Bulleted
-- List
+**QR**
+![QR Paypal](https://raw.githubusercontent.com/Jeypzzz/transplant-funds/master/images/paypal.png)
+https://raw.githubusercontent.com/Jeypzzz/transplant-funds/master/images/paypal.png
 
-1. Numbered
-2. List
+### Coins.ph
 
-**Bold** and _Italic_ and `Code` text
+**Number**
++63 995 731 4506
 
-[Link](url) and ![Image](src)
-```
+**QR**
+![QR Coins.ph](https://raw.githubusercontent.com/Jeypzzz/transplant-funds/master/images/coins.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Gcash
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jeypzzz/transplant-funds/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Number**
++63 995 731 4506
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
